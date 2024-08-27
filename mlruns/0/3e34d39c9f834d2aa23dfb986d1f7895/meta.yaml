@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shree/Desktop/MLProject/mlops/mlruns/0/3e34d39c9f834d2aa23dfb986d1f7895/artifacts
+end_time: 1724759133259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e34d39c9f834d2aa23dfb986d1f7895
+run_name: amusing-snake-790
+run_uuid: 3e34d39c9f834d2aa23dfb986d1f7895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724759125085
+status: 3
+tags: []
+user_id: Shree

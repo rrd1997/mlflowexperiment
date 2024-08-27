@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Shree/Desktop/MLProject/mlops/mlruns/0/252e180e292548fdacc5eae2b039d269/artifacts
+end_time: 1724760233526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 252e180e292548fdacc5eae2b039d269
+run_name: placid-auk-766
+run_uuid: 252e180e292548fdacc5eae2b039d269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724760226117
+status: 3
+tags: []
+user_id: Shree
